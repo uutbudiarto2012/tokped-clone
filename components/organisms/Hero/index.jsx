@@ -61,7 +61,7 @@ const Hero = () => {
           </SwiperSlide>
         </Swiper>
         <div
-          className='absolute flex items-center justify-center top-0 bottom-0 w-12 z-40 -left-6'
+          className='absolute flex items-center justify-center top-0 bottom-0 w-12 z-30 -left-6'
           onClick={() => swiperRef.current.swiper.slidePrev()}
         >
           <button className='h-9 w-9 opacity-0 group-hover:opacity-100 group-hover:translate-x-0 text-3xl duration-300 translate-x-12 flex justify-center shadow-md items-center bg-white rounded-full'>
@@ -69,7 +69,7 @@ const Hero = () => {
           </button>
         </div>
         <div
-          className='absolute top-0 bottom-0 w-12 z-40 -right-6 flex items-center justify-center'
+          className='absolute top-0 bottom-0 w-12 z-30 -right-6 flex items-center justify-center'
           onClick={() => swiperRef.current.swiper.slideNext()}
         >
           <button className='h-9 w-9 duration-300 opacity-0 group-hover:opacity-100 group-hover:translate-x-0 -translate-x-12 text-3xl shadow-md flex justify-center items-center bg-white rounded-full'>

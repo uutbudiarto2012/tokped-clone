@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "image": "/images/products/1.png",
+            "count": 100,
+            "sold": 78,
+            "price": 200000,
+            "discount": 40
+        },
+        {
+            "id": 2,
+            "image": "/images/products/2.png",
+            "count": 160,
+            "sold": 78,
+            "price": 1200000,
+            "discount": 50
+        },
+        {
+            "id": 3,
+            "image": "/images/products/3.png",
+            "count": 100,
+            "sold": 48,
+            "price": 100000,
+            "discount": 65
+        },
+        {
+            "id": 4,
+            "image": "/images/products/4.png",
+            "count": 600,
+            "sold": 130,
+            "price": 200000,
+            "discount": 40
+        },
+        {
+            "id": 5,
+            "image": "/images/products/5.png",
+            "count": 500,
+            "sold": 78,
+            "price": 200000,
+            "discount": 40
+        },
+        {
+            "id": 6,
+            "image": "/images/products/6.png",
+            "count": 600,
+            "sold": 78,
+            "price": 200000,
+            "discount": 40
+        },
+        {
+            "id": 7,
+            "image": "/images/products/7.png",
+            "count": 100,
+            "sold": 78,
+            "price": 200000,
+            "discount": 40
+        },
+        {
+            "id": 8,
+            "image": "/images/products/8.png",
+            "count": 100,
+            "sold": 78,
+            "price": 200000,
+            "discount": 40
+        },
+        {
+            "id": 9,
+            "image": "/images/products/9.png",
+            "count": 100,
+            "sold": 78,
+            "price": 200000,
+            "discount": 40
+        },
+        {
+            "id": 10,
+            "image": "/images/products/10.png",
+            "count": 100,
+            "sold": 98,
+            "price": 100000,
+            "discount": 70
+        }
+    ]
+}
